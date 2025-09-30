@@ -1,7 +1,7 @@
 # Maik's Masterarbeit
 Willkommen!
 
-Auf diesem Repository können Sie die Electron App herunterladen, die im Rahmen von Maiks Masterarbeit entwickelt wurde. Bitte beachten Sie:
+Auf diesem Repository können Sie die Electron App herunterladen, die im für Maiks Masterarbeit entwickelt wurde und die Studie enthält. Bitte beachten Sie:
 
 - Die App läuft **nur auf Windows-Systemen**.
 - Der **"my-electron-app-win32-x64-1.0.0.zip"** Ordner muss nach dem Download entpackt werden.
