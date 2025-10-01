@@ -1,4 +1,4 @@
-# Maik's Masterarbeit
+# „Sozio-demografische und sportliche Einflussfaktoren kognitiver Entscheidungsprozesse im Volleyball am Beispiel der Antizipation des Zuspiels“
 Willkommen!
 
 Auf diesem Repository können Sie die Electron App herunterladen, die für Maiks Masterarbeit entwickelt wurde und die Studie enthält. Bitte beachten Sie:
