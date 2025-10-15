@@ -16,7 +16,7 @@ Auf diesem Repository können Sie die Electron App herunterladen, die für Maiks
 Vielen Dank für Ihre Teilnahme!
 
 
-#### English version:
+### English version:
 Welcome!
 
 On this repository, you can download the Electron app that was developed for Maik's master's thesis and contains the study. Please note:
